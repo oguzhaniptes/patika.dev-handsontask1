@@ -7,12 +7,7 @@
 		"abi": [
 			{
 				"inputs": [],
-				"stateMutability": "nonpayable",
-				"type": "constructor"
-			},
-			{
-				"inputs": [],
-				"name": "balance",
+				"name": "count",
 				"outputs": [
 					{
 						"internalType": "uint256",
@@ -25,38 +20,29 @@
 			},
 			{
 				"inputs": [],
-				"name": "owner",
+				"name": "decrease",
 				"outputs": [
 					{
-						"internalType": "address",
-						"name": "",
-						"type": "address"
-					}
-				],
-				"stateMutability": "view",
-				"type": "function"
-			},
-			{
-				"inputs": [
-					{
 						"internalType": "uint256",
-						"name": "_amount",
+						"name": "",
 						"type": "uint256"
-					},
-					{
-						"internalType": "address payable",
-						"name": "_destAddress",
-						"type": "address"
 					}
 				],
-				"name": "withDraw",
-				"outputs": [],
 				"stateMutability": "nonpayable",
 				"type": "function"
 			},
 			{
-				"stateMutability": "payable",
-				"type": "receive"
+				"inputs": [],
+				"name": "increase",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "nonpayable",
+				"type": "function"
 			}
 		],
 		"devdoc": {
@@ -72,7 +58,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"ether-store.sol": "FeeCollector"
+			"counter.sol": "Counter"
 		},
 		"evmVersion": "london",
 		"libraries": {},
@@ -86,12 +72,12 @@
 		"remappings": []
 	},
 	"sources": {
-		"ether-store.sol": {
-			"keccak256": "0xba83e1bb56c370653180813a8a17e7a6ecd127a0d57d6a097f4703a9948ce7fa",
+		"counter.sol": {
+			"keccak256": "0x4f80b3c8c4787b4da0199f98167cee0881dc9366fa3c0e6dfcbd28f0e38ed42d",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://531f22668c21c62d67b3fd5b8d297e0a9f77f5011c6f5510ce05933456a4352c",
-				"dweb:/ipfs/Qma4BASPvC9NU6mRcMMUKvwYK9vbAqUkLwB9XAWSt57RXc"
+				"bzz-raw://6e13901a68a6e967cf5472fdeea49df4a66a6a416479eecd5c0c757fb5ac5691",
+				"dweb:/ipfs/QmcfoW57ideUbTAFxB4aBAjJhakLXxtost6o6yYhnjbhec"
 			]
 		}
 	},
