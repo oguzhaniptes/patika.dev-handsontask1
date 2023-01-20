@@ -3,6 +3,6 @@
 ### Hands on Task - patika.dev
 
 
--Ether-Store - [X]
--TodoList - [X]
--CrowFund App - []
+- [X] Ether-Store
+- [X] TodoList
+- [] CrowFund App
