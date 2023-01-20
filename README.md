@@ -1,8 +1,8 @@
-### Hands on Task - patika.dev
+### Paribu Hub Solidity & Smart Contracts Practicum
 
-4. week Homeworks
-Paribu Hub Solidity & Smart Contracts Practicum week-4 content:
+## Hands on Task - patika.dev
 
-Ether-Store - [X]
-TodoList - []
-CrowFund App - []
+
+#Ether-Store - [X]
+#TodoList - []
+#CrowFund App - []
