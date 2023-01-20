@@ -1,8 +1,8 @@
-### Paribu Hub Solidity & Smart Contracts Practicum
+## Paribu Hub Solidity & Smart Contracts Practicum
 
-## Hands on Task - patika.dev
+### Hands on Task - patika.dev
 
 
-#Ether-Store - [X]
-#TodoList - []
-#CrowFund App - []
+-Ether-Store - [X]
+-TodoList - [X]
+-CrowFund App - []
