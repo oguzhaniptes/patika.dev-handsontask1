@@ -5,4 +5,4 @@
 
 - [X] Ether-Store
 - [X] TodoList
-- [ ] CrowFund App
+- [X] CrowFund App
