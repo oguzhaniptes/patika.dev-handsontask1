@@ -87,11 +87,11 @@
 	},
 	"sources": {
 		"ether-store.sol": {
-			"keccak256": "0x5c952a75d7ddb40bd9cb750e5ff4d8eb7e77d7a159e4cbf33e4aa21a5613c1bb",
+			"keccak256": "0xba83e1bb56c370653180813a8a17e7a6ecd127a0d57d6a097f4703a9948ce7fa",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://355cbc6f3fe77e2a1fe0246baf8e357ff391e6e09d17db346f781b54b051324a",
-				"dweb:/ipfs/QmbChwePJ5TRJfnkcipGp2q89giDGqpDp9bBtjvzaGhxdg"
+				"bzz-raw://531f22668c21c62d67b3fd5b8d297e0a9f77f5011c6f5510ce05933456a4352c",
+				"dweb:/ipfs/Qma4BASPvC9NU6mRcMMUKvwYK9vbAqUkLwB9XAWSt57RXc"
 			]
 		}
 	},
